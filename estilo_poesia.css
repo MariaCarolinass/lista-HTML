@@ -1,0 +1,22 @@
+img {
+  background-image: url(borboletas-coloridas.gif);
+  background-repeat: no-repeat;
+  position: absolute;
+  top: 44%;
+  right: 0px;
+  width: 440px;
+  padding: 10px;
+}
+
+body {
+  font-family: arial;
+}
+
+div#titulo {
+  text-align: center;
+  font-style: italic;
+}
+
+div#paragrafos {
+  color: blue;
+}
